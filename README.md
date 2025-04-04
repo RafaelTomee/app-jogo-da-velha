@@ -35,4 +35,6 @@ Este é um aplicativo simples de **Jogo da Velha (Tic-Tac-Toe)** desenvolvido co
 
 ![image](https://github.com/user-attachments/assets/014112c9-a5c2-4455-a35a-99865fa7ad75)
 
+## 🧑‍💻 Autor
+Feito por Rafael Tomé da SIlva – Projeto de estudo em Flutter do Talento Tech Parana.
 
