@@ -1,16 +1,35 @@
-# myapp
+# 🎮 Jogo da Velha - Flutter
 
-A new Flutter project.
+Este é um aplicativo simples de **Jogo da Velha (Tic-Tac-Toe)** desenvolvido com **Flutter**, onde você pode jogar contra outro jogador ou contra o computador. O objetivo é alinhar 3 símbolos iguais ("X" ou "O") na horizontal, vertical ou diagonal.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Tabuleiro 3x3 interativo
+- 🤖 Modo contra o Computador (jogadas aleatórias)
+- 👥 Modo 2 jogadores (Humano vs. Humano)
+- 🏆 Detecção automática de vitória ou empate
+- 🔄 Botão de reiniciar o jogo
+- 🎛️ Switch para alternar entre modo humano e computador
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Lógica do Jogo
+
+- O tabuleiro é representado por uma lista com 9 posições.
+- O jogador "X" sempre começa.
+- No modo contra o computador, o "O" é controlado pela IA (simples e aleatória).
+- Quando alguém vence ou o jogo empata, aparece um **AlertDialog** com a opção de reiniciar o jogo.
+
+---
+
+## 🧪 Tecnologias Utilizadas
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+---
+
+📸 Imagem do App (Exemplo)
+<!-- Adicione uma imagem aqui se desejar -->
