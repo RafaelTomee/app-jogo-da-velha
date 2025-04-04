@@ -31,5 +31,8 @@ Este é um aplicativo simples de **Jogo da Velha (Tic-Tac-Toe)** desenvolvido co
 
 ---
 
-📸 Imagem do App (Exemplo)
-<!-- Adicione uma imagem aqui se desejar -->
+## 📸 Imagem do App 
+
+![image](https://github.com/user-attachments/assets/014112c9-a5c2-4455-a35a-99865fa7ad75)
+
+
